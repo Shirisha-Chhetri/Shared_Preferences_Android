@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">shared_preferences</string>
+    <string name="account">Don\'t have an account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="shared">Shared Preferences</string>
+</resources>
